@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido como demonstração prática do algoritmo utilizad
 
 Bibliotecas utilizadas:<br> 
 
-1.  <a href='https://plotly/'>plotly</a> - Responsável pela criação de representações gráficas; <br>
+1.  <a href='https://plotly.com/python/'>plotly</a> - Responsável pela criação de representações gráficas; <br>
 2.	<a href='https://pandas-datareader.readthedocs.io/en/latest/'>pandas-datareader</a> - Responsável pela criação de dataframes de diversas fontes de dados da internet; <br>
 3.	<a href='https://pypi.org/project/yfinance/'>yfinance</a> - Responsável por fornecer dados de ativos financeiros; <br>
 4.	<a href='https://pandas.pydata.org/docs/index.html'>pandas</a> - Utilizada para realizar manipulação e análise de dados em dataframes e series; <br>
